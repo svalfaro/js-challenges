@@ -16,6 +16,18 @@ You're developing an inventory application for a bookstore.
 [x] - Use JavaScript's class notation
 [x] - Use JavaScript getters
 
-## Instructions
+# 01_02 Movie Object
 
-Develop your solution in the `begin.js` file. If this challenge requires you to interact with the DOM, you will have an HTML element provided for you in the `index.html` file. Use this node to complete your DOM manipulation.
+## What You'll Do
+
+Create a Movie object that takes in five arguments:
+
+[x] - title
+[x] - director
+[x] - genre
+[x] - releaseYear
+[x] - rating
+
+[x] - add a function called `getOverview` on the Movie prototype which console logs the following overview for each film:
+
+    "<movie>, a <genre> film directed by <director> was released in <releaseYear>. It received a rating of <rating>."
