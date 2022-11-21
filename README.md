@@ -106,3 +106,20 @@ Expanding on your previous book application you now want to create a class for t
 ## _Requirements_
 
 - [x] Use JavaScript's class notation
+
+<br>
+<br>
+
+# **01_06 Ticking Time**
+
+## _What You'll Do_
+
+Given a `<div id="clock"></div>` create a clock which displays the current hour, minutes, and seconds.
+
+## _Requirements_
+
+- [x] Use setInterval
+- [x] Use Date()
+
+<br>
+<br>
