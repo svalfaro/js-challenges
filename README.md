@@ -89,4 +89,20 @@ const menu = [
 ## _Requirements_
 
 - [x] Use the `array.filter()` method to differentiate dishes which are vegetarian
-- [x] Dynamically generate each DOM node for the vegetarian dishes to append it as a list item to an unordered list
+- [x] Dynamically generate each DOM node for the vegetarian dishes to append it as a list item to an unordered list.
+
+<br>
+<br>
+
+# **01_04 Technical Books**
+
+## _What You'll Do_
+
+Expanding on your previous book application you now want to create a class for technical books. Using the Book class constructed in the last example, extend the functionality to the new TechnicalBook class.
+
+- [x] The new TechnicalBook class will take a book edition as a fifth argument.
+- [x] You should add a getEdition method which prints `The current version of this book is ${version}`.
+
+## _Requirements_
+
+- [x] Use JavaScript's class notation
