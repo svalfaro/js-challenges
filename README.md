@@ -123,3 +123,25 @@ Given a `<div id="clock"></div>` create a clock which displays the current hour,
 
 <br>
 <br>
+
+# **01_07 Classroom Attendance**
+
+## _What You'll Do_
+
+Given an object, classroom, return an array of student names
+
+- [x] The classroom object is structured with two values: hasTeachingAssistant (boolean) and classList (array of strings)
+
+```js
+  {
+    hasTeachingAssistant: false,
+    classList: ["Rashida", "John", "Roman", "Lisa", "Omair", "Lukas"],
+  }
+```
+
+- [x] The teacher will always be the first item in the classList array
+- [x] If `hasTeachingAssitant` is true, the teaching assistant will be the second item in the classList array
+
+## _Requirements_
+
+- [x] Use object and array destructuring
